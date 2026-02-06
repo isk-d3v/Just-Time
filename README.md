@@ -1,6 +1,6 @@
 # Just-Time
 
-This repository is automatically updated by Render Web Service.
-Every execution rewrites this README.md and commits to GitHub.
+Hi this is just time but look this :
+https://lunass.vercel.app/ 󠁛󠀣󠁦󠁦󠁦󠁦󠁦󠁦󠀬󠀣󠁦󠁦󠁦󠁦󠁦
 
-Last update: 2026-02-06T21:30:22.439581
+Last update: 2026-02-06T21:32:15.015360
