@@ -1,3 +1,4 @@
 # Just-Time
 
-This is automated repo . While you are boring here look at this : https://lunass.vercel.app/ 󠁛󠀣󠁦󠁦󠁦󠁦󠁦󠁦󠀬󠀣󠁦󠁦󠁦󠁦󠁦󠁦󠁝
+This repository is automatically updated by Render Web Service.
+Every execution rewrites this README.md and commits to GitHub.
