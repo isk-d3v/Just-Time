@@ -1,2 +1,4 @@
-🕒 Aujourd'hui : Friday 06 February 2026
-⏰ Heure : 19:52:53
+# Just-Time
+
+This repository is automatically updated by Render Web Service.
+Every execution rewrites this README.md and commits to GitHub.
